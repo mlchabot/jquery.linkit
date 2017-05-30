@@ -1,0 +1,34 @@
+{
+    "name": "linkItmlc",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content",
+        "jquery-plugin"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Michelle Chabot",
+        "url": "http://chabotwebsites.com"
+    },
+    "maintainers": [
+        {
+            "name": "Michelle Chabot",
+            "email": "osithee@gmail.com",
+            "url": "http://chabotwebsites.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/mlchabot/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/mlchabot/jquery.linkitmlc",
+    "repository": "https://github.com/mlchabot/jquery.linkitmlc",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
